@@ -18,7 +18,16 @@ I'm passionate about fullstack dev, digital transformation, accessibility and vi
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB logo" width="50px" height="50px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode logo" width="50px" height="50px" />
 
-### 
+### 🚀 GitHub Stats 
+
+![Tara's GitHub stats](https://github-readme-stats.vercel.app/api?username=tararhoseyn&show_icons=true&theme=prussian)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tararhoseyn&hide=html&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🔎 Where to find me 
+
+![Twitter](https://img.shields.io/badge/<CodingComms>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+
 
 
 
