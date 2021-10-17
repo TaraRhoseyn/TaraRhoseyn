@@ -26,6 +26,6 @@ I'm passionate about fullstack dev, digital transformation, accessibility and vi
 
 ### 🔎 Where to find me 
 
-<a href="https://www.linkedin.com/in/tara-rhoseyn-2102ba151/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/CodingComms"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a target="_blank" href="https://www.linkedin.com/in/tara-rhoseyn-2102ba151/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a target="_blank" href="https://twitter.com/CodingComms"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 
