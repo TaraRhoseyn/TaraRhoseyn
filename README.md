@@ -1,4 +1,4 @@
-## Hey 👋 I'm Tara
+### Hey 👋 I'm Tara
 
 I currently work as a Digital Marketing Lead who leads on accessibility & liases between technical and Communications teams. I'm currently also completing a Diploma in Web Application Development and loving every second. 
 
@@ -20,9 +20,9 @@ I'm passionate about fullstack dev, digital transformation, accessibility and vi
 
 ### 🚀 GitHub Stats 
 
-![Tara's GitHub stats](https://github-readme-stats.vercel.app/api?username=tararhoseyn&show_icons=true&theme=prussian)
+![Tara's GitHub stats](https://github-readme-stats.vercel.app/api?username=tararhoseyn&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tararhoseyn&hide=html&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tararhoseyn&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔎 Where to find me 
 
