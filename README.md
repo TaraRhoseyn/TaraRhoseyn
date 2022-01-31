@@ -17,6 +17,8 @@ I'm passionate about fullstack dev, digital transformation, accessibility and vi
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="JQuery logo" width="50px" height="50px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB logo" width="50px" height="50px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode logo" width="50px" height="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="VSCode logo" width="50px" height="50px" />
+
 
 ### 🚀 GitHub Stats 
 
