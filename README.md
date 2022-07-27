@@ -1,8 +1,8 @@
 ### Hey 👋 I'm Tara
 
-I currently work as a Digital Marketing Lead who leads on accessibility & liases between technical and Communications teams. I'm also completing a Diploma in Development and loving every second. 
+I currently work in the public sector as a lead liasion between technical and creative teams. 
 
-I'm passionate about fullstack dev, digital transformation, accessibility and video games. 
+I'm passionate about frontend dev, digital transformation and accessibility. 
 
 ### ⚒️ Skills
 
