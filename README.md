@@ -1,6 +1,6 @@
 ### Hey 👋 I'm Tara
 
-I currently work in the public sector as a lead liasion between technical and creative teams. 
+I currently work in the public sector as a lead liason between technical and creative teams. 
 
 I'm passionate about frontend dev, digital transformation and accessibility. 
 
