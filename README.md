@@ -1,6 +1,6 @@
 ### Hey 👋 I'm Tara
 
-I currently work in the public sector. I'm passionate about frontend dev, digital transformation and accessibility. 
+I'm a Digital Programme Manager working in the Welsh public sector. I'm passionate about product, frontend, digital transformation and accessibility. 
 
 ### ⚒️ Skills
 
