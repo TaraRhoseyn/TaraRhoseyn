@@ -1,6 +1,6 @@
 ### Hey 👋 I'm Tara
 
-I'm a Digital Programme Manager working in the Welsh public sector. I'm passionate about product, frontend, digital transformation and accessibility. 
+I'm a Digital Programme Manager leading a digital transformation programme for a government public body. I also study for a degree in Software Engineering at Cardiff Met University. I'm passionate about business change, digital accessibility, and transformation. 
 
 ### ⚒️ Skills
 
