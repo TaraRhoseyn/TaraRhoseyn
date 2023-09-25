@@ -2,7 +2,7 @@
 
 I'm a Digital Programme Manager leading a digital transformation programme for a government public body. I also study for a degree in Software Engineering at Cardiff Met University. I'm passionate about business change, digital accessibility, and transformation. 
 
-### ⚒️ Skills
+### Key skills
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS logo" width="50px" height="50px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px" height="50px" />
@@ -17,15 +17,20 @@ I'm a Digital Programme Manager leading a digital transformation programme for a
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode logo" width="50px" height="50px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="VSCode logo" width="50px" height="50px" />
 
+### Key repositories
+- [Work for Sport Wales](https://github.com/stars/TaraRhoseyn/lists/work)
+- [University assignments](https://github.com/stars/TaraRhoseyn/lists/university-assignments)
+- [Diploma assignments](https://github.com/stars/TaraRhoseyn/lists/diploma-assignments)
 
-### 🚀 GitHub Stats 
+
+### GitHub Stats 
 
 ![Tara's GitHub stats](https://github-readme-stats.vercel.app/api?username=tararhoseyn&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tararhoseyn&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🔎 Where to find me 
+### Where to find me 
 
 <a target="_blank" href="https://www.linkedin.com/in/tara-rhoseyn-2102ba151/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a target="_blank" href="https://twitter.com/CodingComms"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a target="_blank" href="https://twitter.com/TaraRhoseyn"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 
