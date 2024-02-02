@@ -1,6 +1,6 @@
 ### Hey 👋 I'm Tara
 
-- Digital Programme Manager @ [Sport Wales](https://github.com/Sport-Wales)
+- Software Developer @ [Sport Wales](https://github.com/Sport-Wales)
 - 2nd Year BSc Software Engineering student
 - Passionate about accessibility and digital transformation
   
@@ -10,8 +10,6 @@
 - [University assignments](https://github.com/stars/TaraRhoseyn/lists/university-assignments)
 - [Diploma assignments](https://github.com/stars/TaraRhoseyn/lists/diploma-assignments)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tararhoseyn&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Where to find me 
 
