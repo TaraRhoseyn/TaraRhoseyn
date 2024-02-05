@@ -6,7 +6,7 @@
   
 ### Key repositories
 
-- [Work for Sport Wales](https://github.com/stars/TaraRhoseyn/lists/work)
+- [Work for Sport Wales](https://github.com/stars/TaraRhoseyn/lists/work-for-sport-wales)
 - [University assignments](https://github.com/stars/TaraRhoseyn/lists/university-assignments)
 - [Diploma assignments](https://github.com/stars/TaraRhoseyn/lists/diploma-assignments)
 
