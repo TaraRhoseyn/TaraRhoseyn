@@ -1,8 +1,7 @@
 ### Hey 👋 I'm Tara
 
 - Software Developer @ [Sport Wales](https://github.com/Sport-Wales)
-- 2nd Year BSc Software Engineering student
-- Passionate about accessibility and digital transformation
+- Specialises in frontend web development
   
 ### Key repositories
 
